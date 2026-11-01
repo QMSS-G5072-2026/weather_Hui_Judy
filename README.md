@@ -1,5 +1,8 @@
 # weather_jyh2142
 
+[![CI](https://github.com/QMSS-G5072-2026/weather_Hui_Judy/actions/workflows/ci.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_Hui_Judy/actions/workflows/ci.yml)
+
+
 A Python package for retrieving and analyzing weather data.
 
 ## Installation
